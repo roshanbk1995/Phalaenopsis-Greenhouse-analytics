@@ -1,0 +1,439 @@
+record_id,batch_id,stage_name,inspection_date,disease_type,plants_affected
+1,101,Vegetative,2023-03-14,Botrytis,221
+2,101,Vegetative,2023-03-12,Bacterial Soft Rot,195
+3,101,Spike Initiation,2023-03-12,Bacterial Soft Rot,120
+4,101,Spike Initiation,2023-03-31,Botrytis,177
+5,101,Spike Initiation,2023-03-27,,0
+6,101,Spike Initiation,2023-02-24,Botrytis,85
+7,101,Flowering,2023-02-23,,0
+8,101,Flowering,2023-04-02,Botrytis,66
+9,101,Flowering,2023-03-13,Botrytis,122
+10,101,Flowering,2023-04-17,Botrytis,44
+11,102,Vegetative,2023-03-12,,0
+12,102,Vegetative,2023-04-13,Root Rot,237
+13,102,Vegetative,2023-03-01,,0
+14,102,Spike Initiation,2023-02-27,Bacterial Soft Rot,128
+15,102,Spike Initiation,2023-03-29,Bacterial Soft Rot,102
+16,102,Flowering,2023-03-05,Botrytis,243
+17,102,Flowering,2023-04-02,Botrytis,145
+18,103,Vegetative,2023-03-20,Root Rot,110
+19,103,Vegetative,2023-02-28,Bacterial Soft Rot,133
+20,103,Spike Initiation,2023-02-12,,0
+21,103,Spike Initiation,2023-02-12,,0
+22,103,Spike Initiation,2023-02-23,,0
+23,103,Flowering,2023-02-22,Botrytis,169
+24,103,Flowering,2023-01-26,Bacterial Soft Rot,156
+25,103,Flowering,2023-02-14,,0
+26,104,Vegetative,2023-05-03,Root Rot,103
+27,104,Vegetative,2023-04-29,,0
+28,104,Vegetative,2023-03-29,,0
+29,104,Vegetative,2023-03-31,,0
+30,104,Spike Initiation,2023-04-01,Root Rot,58
+31,104,Spike Initiation,2023-03-21,Bacterial Soft Rot,228
+32,104,Spike Initiation,2023-05-14,Root Rot,249
+33,104,Flowering,2023-05-06,,0
+34,104,Flowering,2023-04-15,Root Rot,89
+35,104,Flowering,2023-04-15,Bacterial Soft Rot,176
+36,105,Vegetative,2023-05-19,Root Rot,145
+37,105,Vegetative,2023-05-15,Botrytis,207
+38,105,Vegetative,2023-06-03,Root Rot,179
+39,105,Vegetative,2023-05-27,Botrytis,200
+40,105,Spike Initiation,2023-06-01,Bacterial Soft Rot,242
+41,105,Spike Initiation,2023-06-01,,0
+42,105,Spike Initiation,2023-06-13,Root Rot,103
+43,105,Spike Initiation,2023-06-05,Botrytis,15
+44,105,Flowering,2023-06-21,Botrytis,242
+45,105,Flowering,2023-05-26,Root Rot,175
+46,105,Flowering,2023-05-07,,0
+47,106,Vegetative,2023-02-15,Bacterial Soft Rot,130
+48,106,Vegetative,2023-02-07,Bacterial Soft Rot,168
+49,106,Spike Initiation,2023-03-02,Root Rot,193
+50,106,Spike Initiation,2023-03-03,Bacterial Soft Rot,119
+51,106,Flowering,2023-01-12,Bacterial Soft Rot,51
+52,106,Flowering,2023-02-12,Bacterial Soft Rot,69
+53,107,Vegetative,2023-04-09,Root Rot,87
+54,107,Vegetative,2023-04-25,Bacterial Soft Rot,233
+55,107,Spike Initiation,2023-05-08,Root Rot,229
+56,107,Spike Initiation,2023-04-07,Root Rot,52
+57,107,Spike Initiation,2023-04-25,,0
+58,107,Flowering,2023-05-18,Bacterial Soft Rot,19
+59,107,Flowering,2023-04-02,,0
+60,108,Vegetative,2023-03-16,Bacterial Soft Rot,58
+61,108,Vegetative,2023-03-10,,0
+62,108,Vegetative,2023-03-18,Botrytis,92
+63,108,Spike Initiation,2023-02-26,Root Rot,190
+64,108,Spike Initiation,2023-04-12,,0
+65,108,Flowering,2023-04-09,,0
+66,108,Flowering,2023-03-10,Botrytis,189
+67,109,Vegetative,2023-03-24,Root Rot,153
+68,109,Vegetative,2023-02-24,Root Rot,246
+69,109,Vegetative,2023-04-13,Root Rot,19
+70,109,Vegetative,2023-04-11,,0
+71,109,Spike Initiation,2023-04-08,Root Rot,154
+72,109,Spike Initiation,2023-04-06,Botrytis,170
+73,109,Flowering,2023-04-01,Root Rot,117
+74,109,Flowering,2023-03-25,,0
+75,110,Vegetative,2023-06-12,Root Rot,145
+76,110,Vegetative,2023-05-19,Botrytis,188
+77,110,Vegetative,2023-06-08,,0
+78,110,Vegetative,2023-05-04,Botrytis,87
+79,110,Spike Initiation,2023-04-24,,0
+80,110,Spike Initiation,2023-06-02,,0
+81,110,Flowering,2023-05-29,Botrytis,71
+82,110,Flowering,2023-05-21,Bacterial Soft Rot,181
+83,111,Vegetative,2023-05-06,Root Rot,234
+84,111,Vegetative,2023-04-30,Botrytis,190
+85,111,Spike Initiation,2023-04-20,,0
+86,111,Spike Initiation,2023-05-13,Bacterial Soft Rot,22
+87,111,Spike Initiation,2023-03-22,Root Rot,30
+88,111,Spike Initiation,2023-04-30,Root Rot,194
+89,111,Flowering,2023-05-07,,0
+90,111,Flowering,2023-04-05,Root Rot,15
+91,111,Flowering,2023-03-23,,0
+92,112,Vegetative,2023-03-13,Root Rot,78
+93,112,Vegetative,2023-03-17,,0
+94,112,Spike Initiation,2023-02-11,,0
+95,112,Spike Initiation,2023-02-26,Root Rot,26
+96,112,Spike Initiation,2023-03-17,Root Rot,114
+97,112,Spike Initiation,2023-02-28,Botrytis,193
+98,112,Flowering,2023-02-05,Root Rot,47
+99,112,Flowering,2023-02-21,Botrytis,19
+100,112,Flowering,2023-03-06,,0
+101,112,Flowering,2023-03-03,Root Rot,208
+102,113,Vegetative,2023-04-15,,0
+103,113,Vegetative,2023-03-28,,0
+104,113,Spike Initiation,2023-04-03,,0
+105,113,Spike Initiation,2023-04-02,,0
+106,113,Flowering,2023-04-14,,0
+107,113,Flowering,2023-05-10,,0
+108,113,Flowering,2023-04-12,Botrytis,126
+109,114,Vegetative,2023-04-08,Botrytis,91
+110,114,Vegetative,2023-04-16,Botrytis,82
+111,114,Vegetative,2023-04-03,,0
+112,114,Vegetative,2023-05-09,,0
+113,114,Spike Initiation,2023-04-22,Botrytis,213
+114,114,Spike Initiation,2023-03-22,Root Rot,192
+115,114,Flowering,2023-03-30,Root Rot,53
+116,114,Flowering,2023-05-10,Botrytis,121
+117,115,Vegetative,2023-01-29,Bacterial Soft Rot,186
+118,115,Vegetative,2023-01-19,,0
+119,115,Vegetative,2023-03-08,,0
+120,115,Vegetative,2023-01-31,,0
+121,115,Spike Initiation,2023-02-06,Root Rot,183
+122,115,Spike Initiation,2023-02-16,,0
+123,115,Spike Initiation,2023-02-19,,0
+124,115,Flowering,2023-02-12,Botrytis,207
+125,115,Flowering,2023-03-09,,0
+126,116,Vegetative,2023-03-01,Botrytis,238
+127,116,Vegetative,2023-02-26,Botrytis,47
+128,116,Vegetative,2023-04-05,Root Rot,79
+129,116,Vegetative,2023-03-03,Root Rot,44
+130,116,Spike Initiation,2023-03-20,Root Rot,201
+131,116,Spike Initiation,2023-03-29,Botrytis,205
+132,116,Flowering,2023-03-19,,0
+133,116,Flowering,2023-04-06,Root Rot,49
+134,117,Vegetative,2023-03-06,Root Rot,10
+135,117,Vegetative,2023-04-19,,0
+136,117,Vegetative,2023-03-18,,0
+137,117,Vegetative,2023-04-24,Root Rot,59
+138,117,Spike Initiation,2023-04-09,,0
+139,117,Spike Initiation,2023-04-17,Bacterial Soft Rot,94
+140,117,Flowering,2023-03-15,Root Rot,138
+141,117,Flowering,2023-04-01,Bacterial Soft Rot,128
+142,118,Vegetative,2023-03-05,,0
+143,118,Vegetative,2023-03-15,,0
+144,118,Vegetative,2023-02-20,,0
+145,118,Spike Initiation,2023-02-09,Root Rot,166
+146,118,Spike Initiation,2023-03-06,Bacterial Soft Rot,113
+147,118,Flowering,2023-03-24,Root Rot,146
+148,118,Flowering,2023-03-08,Botrytis,154
+149,118,Flowering,2023-02-05,Botrytis,14
+150,119,Vegetative,2023-03-11,,0
+151,119,Vegetative,2023-04-01,Root Rot,58
+152,119,Spike Initiation,2023-04-15,Root Rot,74
+153,119,Spike Initiation,2023-03-16,Botrytis,100
+154,119,Flowering,2023-02-28,,0
+155,119,Flowering,2023-03-13,Bacterial Soft Rot,99
+156,119,Flowering,2023-04-11,Bacterial Soft Rot,112
+157,120,Vegetative,2023-05-25,,0
+158,120,Vegetative,2023-04-22,,0
+159,120,Spike Initiation,2023-05-10,,0
+160,120,Spike Initiation,2023-05-01,Botrytis,48
+161,120,Flowering,2023-05-04,Bacterial Soft Rot,10
+162,120,Flowering,2023-05-06,,0
+163,121,Vegetative,2023-02-01,,0
+164,121,Vegetative,2023-02-18,,0
+165,121,Vegetative,2023-02-15,Botrytis,113
+166,121,Vegetative,2023-02-05,Root Rot,193
+167,121,Spike Initiation,2023-02-15,,0
+168,121,Spike Initiation,2023-02-02,Botrytis,202
+169,121,Flowering,2023-02-11,Bacterial Soft Rot,46
+170,121,Flowering,2023-03-01,Botrytis,181
+171,121,Flowering,2023-01-19,Botrytis,97
+172,122,Vegetative,2023-03-15,,0
+173,122,Vegetative,2023-03-10,,0
+174,122,Vegetative,2023-04-10,Root Rot,35
+175,122,Spike Initiation,2023-03-18,Botrytis,195
+176,122,Spike Initiation,2023-04-03,,0
+177,122,Spike Initiation,2023-03-26,,0
+178,122,Spike Initiation,2023-04-16,,0
+179,122,Flowering,2023-04-07,,0
+180,122,Flowering,2023-03-25,Bacterial Soft Rot,219
+181,122,Flowering,2023-02-20,Botrytis,85
+182,122,Flowering,2023-03-25,Botrytis,68
+183,123,Vegetative,2023-01-17,Root Rot,241
+184,123,Vegetative,2023-01-04,Root Rot,130
+185,123,Vegetative,2023-01-19,Root Rot,110
+186,123,Vegetative,2023-02-17,Root Rot,126
+187,123,Spike Initiation,2023-02-05,Botrytis,245
+188,123,Spike Initiation,2023-01-05,Root Rot,144
+189,123,Spike Initiation,2023-02-21,,0
+190,123,Spike Initiation,2023-02-28,,0
+191,123,Flowering,2023-02-03,,0
+192,123,Flowering,2023-02-28,Bacterial Soft Rot,36
+193,124,Vegetative,2023-04-04,,0
+194,124,Vegetative,2023-04-22,,0
+195,124,Vegetative,2023-05-05,,0
+196,124,Spike Initiation,2023-04-20,,0
+197,124,Spike Initiation,2023-05-27,,0
+198,124,Spike Initiation,2023-05-06,Botrytis,87
+199,124,Flowering,2023-05-19,Botrytis,50
+200,124,Flowering,2023-05-23,,0
+201,124,Flowering,2023-05-17,Botrytis,190
+202,124,Flowering,2023-05-23,,0
+203,125,Vegetative,2023-03-07,Root Rot,12
+204,125,Vegetative,2023-03-18,Bacterial Soft Rot,83
+205,125,Spike Initiation,2023-02-21,Bacterial Soft Rot,97
+206,125,Spike Initiation,2023-03-14,,0
+207,125,Spike Initiation,2023-02-07,Bacterial Soft Rot,49
+208,125,Spike Initiation,2023-03-27,Bacterial Soft Rot,125
+209,125,Flowering,2023-02-15,Botrytis,87
+210,125,Flowering,2023-02-15,Root Rot,113
+211,126,Vegetative,2023-02-03,Botrytis,201
+212,126,Vegetative,2023-01-29,Root Rot,109
+213,126,Vegetative,2023-02-17,Root Rot,231
+214,126,Vegetative,2023-01-20,,0
+215,126,Spike Initiation,2023-02-01,,0
+216,126,Spike Initiation,2023-01-15,Bacterial Soft Rot,95
+217,126,Spike Initiation,2023-01-30,Root Rot,15
+218,126,Spike Initiation,2023-01-05,Root Rot,84
+219,126,Flowering,2023-01-24,,0
+220,126,Flowering,2023-02-26,,0
+221,126,Flowering,2023-01-12,Root Rot,81
+222,126,Flowering,2023-03-05,Root Rot,243
+223,127,Vegetative,2023-03-27,Root Rot,222
+224,127,Vegetative,2023-04-04,,0
+225,127,Spike Initiation,2023-03-12,Bacterial Soft Rot,14
+226,127,Spike Initiation,2023-03-04,Bacterial Soft Rot,30
+227,127,Spike Initiation,2023-02-07,Bacterial Soft Rot,87
+228,127,Spike Initiation,2023-02-13,Root Rot,74
+229,127,Flowering,2023-03-18,,0
+230,127,Flowering,2023-03-10,Bacterial Soft Rot,149
+231,127,Flowering,2023-03-08,Botrytis,19
+232,127,Flowering,2023-03-06,Bacterial Soft Rot,83
+233,128,Vegetative,2023-05-13,Root Rot,236
+234,128,Vegetative,2023-04-03,Bacterial Soft Rot,197
+235,128,Vegetative,2023-04-24,Botrytis,152
+236,128,Vegetative,2023-05-10,Root Rot,224
+237,128,Spike Initiation,2023-05-04,,0
+238,128,Spike Initiation,2023-04-25,,0
+239,128,Flowering,2023-03-19,,0
+240,128,Flowering,2023-05-02,Botrytis,61
+241,129,Vegetative,2023-05-26,Botrytis,26
+242,129,Vegetative,2023-05-18,,0
+243,129,Spike Initiation,2023-04-26,,0
+244,129,Spike Initiation,2023-04-25,Bacterial Soft Rot,22
+245,129,Spike Initiation,2023-05-22,Bacterial Soft Rot,184
+246,129,Spike Initiation,2023-05-04,Root Rot,25
+247,129,Flowering,2023-06-04,,0
+248,129,Flowering,2023-04-17,Botrytis,182
+249,129,Flowering,2023-05-20,Botrytis,98
+250,129,Flowering,2023-05-09,,0
+251,130,Vegetative,2023-05-17,Bacterial Soft Rot,37
+252,130,Vegetative,2023-05-10,,0
+253,130,Vegetative,2023-03-22,,0
+254,130,Spike Initiation,2023-03-21,,0
+255,130,Spike Initiation,2023-05-09,,0
+256,130,Flowering,2023-04-12,,0
+257,130,Flowering,2023-05-04,Botrytis,168
+258,130,Flowering,2023-04-05,Botrytis,177
+259,131,Vegetative,2023-05-16,Root Rot,137
+260,131,Vegetative,2023-05-03,,0
+261,131,Vegetative,2023-05-01,Root Rot,64
+262,131,Spike Initiation,2023-05-16,,0
+263,131,Spike Initiation,2023-05-28,Botrytis,230
+264,131,Flowering,2023-06-07,Root Rot,84
+265,131,Flowering,2023-04-30,Root Rot,12
+266,131,Flowering,2023-05-21,Botrytis,187
+267,131,Flowering,2023-05-05,Botrytis,144
+268,132,Vegetative,2023-04-03,Root Rot,209
+269,132,Vegetative,2023-05-07,,0
+270,132,Vegetative,2023-05-02,,0
+271,132,Vegetative,2023-05-23,,0
+272,132,Spike Initiation,2023-05-11,,0
+273,132,Spike Initiation,2023-04-18,,0
+274,132,Spike Initiation,2023-03-26,Botrytis,229
+275,132,Flowering,2023-05-13,Root Rot,69
+276,132,Flowering,2023-05-05,Root Rot,208
+277,132,Flowering,2023-04-29,Root Rot,87
+278,132,Flowering,2023-05-10,Root Rot,142
+279,133,Vegetative,2023-03-21,Botrytis,92
+280,133,Vegetative,2023-04-04,Root Rot,26
+281,133,Spike Initiation,2023-03-11,Root Rot,45
+282,133,Spike Initiation,2023-04-21,,0
+283,133,Spike Initiation,2023-04-02,,0
+284,133,Flowering,2023-04-18,Root Rot,147
+285,133,Flowering,2023-03-05,,0
+286,133,Flowering,2023-03-19,,0
+287,134,Vegetative,2023-05-06,Root Rot,79
+288,134,Vegetative,2023-04-14,Bacterial Soft Rot,242
+289,134,Vegetative,2023-05-09,,0
+290,134,Spike Initiation,2023-04-01,Root Rot,53
+291,134,Spike Initiation,2023-04-02,,0
+292,134,Spike Initiation,2023-05-26,Botrytis,236
+293,134,Spike Initiation,2023-05-29,Root Rot,20
+294,134,Flowering,2023-05-28,Botrytis,120
+295,134,Flowering,2023-04-15,,0
+296,134,Flowering,2023-04-30,Root Rot,183
+297,134,Flowering,2023-04-25,Botrytis,194
+298,135,Vegetative,2023-05-12,Root Rot,67
+299,135,Vegetative,2023-05-05,,0
+300,135,Vegetative,2023-05-03,,0
+301,135,Spike Initiation,2023-05-18,,0
+302,135,Spike Initiation,2023-05-19,Botrytis,18
+303,135,Spike Initiation,2023-05-13,,0
+304,135,Spike Initiation,2023-04-08,,0
+305,135,Flowering,2023-05-22,Root Rot,143
+306,135,Flowering,2023-05-01,Root Rot,246
+307,136,Vegetative,2023-05-02,,0
+308,136,Vegetative,2023-05-13,,0
+309,136,Spike Initiation,2023-05-12,Root Rot,173
+310,136,Spike Initiation,2023-03-29,Bacterial Soft Rot,27
+311,136,Spike Initiation,2023-05-15,Bacterial Soft Rot,206
+312,136,Spike Initiation,2023-04-12,,0
+313,136,Flowering,2023-03-28,Bacterial Soft Rot,96
+314,136,Flowering,2023-04-23,Bacterial Soft Rot,209
+315,136,Flowering,2023-03-26,,0
+316,136,Flowering,2023-04-13,Botrytis,67
+317,137,Vegetative,2023-04-02,Root Rot,73
+318,137,Vegetative,2023-04-25,Botrytis,198
+319,137,Spike Initiation,2023-04-17,Bacterial Soft Rot,163
+320,137,Spike Initiation,2023-04-19,,0
+321,137,Flowering,2023-05-04,Root Rot,96
+322,137,Flowering,2023-04-16,Root Rot,96
+323,137,Flowering,2023-05-04,Bacterial Soft Rot,233
+324,138,Vegetative,2023-03-18,Botrytis,41
+325,138,Vegetative,2023-03-28,Botrytis,96
+326,138,Vegetative,2023-04-03,,0
+327,138,Vegetative,2023-03-08,Botrytis,46
+328,138,Spike Initiation,2023-04-17,Root Rot,159
+329,138,Spike Initiation,2023-04-01,Root Rot,159
+330,138,Flowering,2023-04-17,Botrytis,158
+331,138,Flowering,2023-03-23,Root Rot,88
+332,139,Vegetative,2023-03-15,Botrytis,23
+333,139,Vegetative,2023-03-21,Botrytis,90
+334,139,Spike Initiation,2023-04-05,Root Rot,72
+335,139,Spike Initiation,2023-05-03,Root Rot,248
+336,139,Spike Initiation,2023-04-16,,0
+337,139,Spike Initiation,2023-03-11,,0
+338,139,Flowering,2023-04-13,Bacterial Soft Rot,135
+339,139,Flowering,2023-03-10,Root Rot,247
+340,139,Flowering,2023-04-17,,0
+341,139,Flowering,2023-04-08,,0
+342,140,Vegetative,2023-04-22,,0
+343,140,Vegetative,2023-04-22,Bacterial Soft Rot,239
+344,140,Spike Initiation,2023-04-04,Bacterial Soft Rot,62
+345,140,Spike Initiation,2023-05-12,,0
+346,140,Flowering,2023-05-11,,0
+347,140,Flowering,2023-04-08,,0
+348,140,Flowering,2023-04-03,Root Rot,13
+349,140,Flowering,2023-04-09,,0
+350,141,Vegetative,2023-05-09,Botrytis,211
+351,141,Vegetative,2023-05-10,Root Rot,97
+352,141,Vegetative,2023-06-06,Root Rot,248
+353,141,Spike Initiation,2023-05-14,,0
+354,141,Spike Initiation,2023-05-27,Root Rot,40
+355,141,Spike Initiation,2023-04-28,Root Rot,211
+356,141,Spike Initiation,2023-05-18,,0
+357,141,Flowering,2023-04-25,Botrytis,201
+358,141,Flowering,2023-05-12,Botrytis,26
+359,142,Vegetative,2023-04-12,Root Rot,172
+360,142,Vegetative,2023-04-08,Root Rot,131
+361,142,Vegetative,2023-04-09,,0
+362,142,Spike Initiation,2023-03-25,Root Rot,101
+363,142,Spike Initiation,2023-02-18,,0
+364,142,Spike Initiation,2023-03-12,,0
+365,142,Spike Initiation,2023-03-28,,0
+366,142,Flowering,2023-03-07,Bacterial Soft Rot,30
+367,142,Flowering,2023-03-27,Botrytis,99
+368,142,Flowering,2023-02-18,,0
+369,142,Flowering,2023-04-11,Root Rot,231
+370,143,Vegetative,2023-03-01,Root Rot,245
+371,143,Vegetative,2023-03-03,Botrytis,235
+372,143,Spike Initiation,2023-03-12,,0
+373,143,Spike Initiation,2023-01-25,Bacterial Soft Rot,229
+374,143,Flowering,2023-02-11,Botrytis,22
+375,143,Flowering,2023-02-08,,0
+376,143,Flowering,2023-02-18,Bacterial Soft Rot,64
+377,144,Vegetative,2023-05-09,Root Rot,58
+378,144,Vegetative,2023-05-28,,0
+379,144,Vegetative,2023-06-18,Root Rot,80
+380,144,Spike Initiation,2023-05-06,Root Rot,24
+381,144,Spike Initiation,2023-04-21,,0
+382,144,Spike Initiation,2023-05-24,,0
+383,144,Flowering,2023-05-09,,0
+384,144,Flowering,2023-04-25,,0
+385,145,Vegetative,2023-04-09,,0
+386,145,Vegetative,2023-02-25,Botrytis,19
+387,145,Vegetative,2023-03-07,Bacterial Soft Rot,131
+388,145,Spike Initiation,2023-02-10,Botrytis,146
+389,145,Spike Initiation,2023-02-16,,0
+390,145,Spike Initiation,2023-03-10,,0
+391,145,Spike Initiation,2023-03-03,,0
+392,145,Flowering,2023-02-15,,0
+393,145,Flowering,2023-03-19,,0
+394,146,Vegetative,2023-04-12,Root Rot,136
+395,146,Vegetative,2023-02-24,,0
+396,146,Vegetative,2023-02-19,Bacterial Soft Rot,90
+397,146,Spike Initiation,2023-03-03,Root Rot,94
+398,146,Spike Initiation,2023-02-23,,0
+399,146,Flowering,2023-04-12,Bacterial Soft Rot,16
+400,146,Flowering,2023-04-07,Botrytis,171
+401,146,Flowering,2023-04-06,,0
+402,146,Flowering,2023-04-08,Botrytis,153
+403,147,Vegetative,2023-04-21,Bacterial Soft Rot,167
+404,147,Vegetative,2023-05-16,,0
+405,147,Vegetative,2023-06-05,Botrytis,141
+406,147,Spike Initiation,2023-06-13,Bacterial Soft Rot,214
+407,147,Spike Initiation,2023-05-06,Bacterial Soft Rot,239
+408,147,Flowering,2023-06-07,Botrytis,28
+409,147,Flowering,2023-04-29,Bacterial Soft Rot,19
+410,148,Vegetative,2023-01-07,,0
+411,148,Vegetative,2023-01-27,Bacterial Soft Rot,59
+412,148,Vegetative,2023-01-11,,0
+413,148,Spike Initiation,2023-01-27,Botrytis,176
+414,148,Spike Initiation,2023-02-24,Root Rot,227
+415,148,Spike Initiation,2023-01-10,Root Rot,136
+416,148,Flowering,2023-01-12,,0
+417,148,Flowering,2023-01-24,,0
+418,148,Flowering,2023-01-11,,0
+419,148,Flowering,2023-01-30,Bacterial Soft Rot,226
+420,149,Vegetative,2023-03-31,,0
+421,149,Vegetative,2023-04-13,Botrytis,18
+422,149,Vegetative,2023-03-31,,0
+423,149,Vegetative,2023-03-14,Bacterial Soft Rot,42
+424,149,Spike Initiation,2023-04-09,Bacterial Soft Rot,14
+425,149,Spike Initiation,2023-05-06,,0
+426,149,Spike Initiation,2023-03-14,,0
+427,149,Flowering,2023-04-07,Botrytis,222
+428,149,Flowering,2023-03-29,Root Rot,75
+429,149,Flowering,2023-03-23,Bacterial Soft Rot,133
+430,149,Flowering,2023-04-02,,0
+431,150,Vegetative,2023-02-22,Botrytis,186
+432,150,Vegetative,2023-03-18,,0
+433,150,Spike Initiation,2023-02-12,Root Rot,190
+434,150,Spike Initiation,2023-03-29,Root Rot,148
+435,150,Spike Initiation,2023-03-30,Root Rot,114
+436,150,Flowering,2023-03-12,Root Rot,141
+437,150,Flowering,2023-03-31,,0
+438,150,Flowering,2023-02-04,Botrytis,59
