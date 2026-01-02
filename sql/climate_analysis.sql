@@ -8,7 +8,7 @@ CREATE TABLE climate_logs (
   humidity_pct NUMERIC(4,1),
   light_hours NUMERIC(4,1)
 );
-
+COPY climate_logs FROM 'climate_logs_large.csv' DELIMITER',' CSV HEADER;
 ## Climate stability analysis by greenhouse block
 SELECT block_id,
        AVG(avg_temp_c) AS avg_temperature,
